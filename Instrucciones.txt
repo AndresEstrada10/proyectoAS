@@ -1,0 +1,13 @@
+importas videojuegos_db.sql al localhost
+
+en una terminal:
+cd videojuegos-service
+npm run start
+
+en otra terminal:
+cd videojuegos-frontend
+npm run start
+
+asegúrate de que el backend corra en el puerto 3000 y el frontend en el puerto 3001
+
+
